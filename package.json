@@ -27,7 +27,7 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
-    "hexo-theme-landscape": "^0.0.3",
+    "hexo-theme-landscape": "^1.0.0",
     "install": "^0.13.0",
     "netlify-cms-app": "^2.15.72"
   }
